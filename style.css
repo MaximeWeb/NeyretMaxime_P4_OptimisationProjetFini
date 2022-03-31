@@ -651,6 +651,7 @@ a {
     font-family: "helvetica";
     font-weight: 400;
     color: #373636!important;
+    font-display: swap;
 }
 
 .container {
@@ -673,6 +674,7 @@ a {
     font-weight: lighter;
     max-width: 520px;
     margin: auto auto auto auto;
+    font-display: swap;
 }
 
 p {
